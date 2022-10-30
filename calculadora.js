@@ -25,7 +25,7 @@ function  divisao (valor1 = required(), valor2 = required()) {
 console.log(divisao(8,2))
 
 
-console.log(`Resultado da soma é: ${somar(3,2)}`)
+console.log(`Resultado da soma é: ${somar(4,2)}`)
 console.log(`Resultado da subtração é: ${subtracao(4,2)}`)
 console.log(`Resultado da multiplicação é: ${multiplicacao(3,2)}`)
 console.log(`Resultado da divisão é: ${divisao(8,2)}`)
